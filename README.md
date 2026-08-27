@@ -77,7 +77,7 @@ Import the cleaned dataset into **MySQL** and create the required database and t
 
 Open:
 
-
+🗄️ [SQL Queries](customer_behaviour%20SQL%20queries.sql)
 
 Execute the queries to analyze:
 
