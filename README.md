@@ -91,10 +91,9 @@ Execute the queries to analyze:
 
 ### 3️⃣ Power BI Dashboard
 
-
+![Power BI Dashboard](powerbi%20dashboard.png)
 Open:
-
-
+📊 [Power BI Dashboard](customer_behaviour_dashboard.pbix)
 
 Connect Power BI to the MySQL database and refresh the data.
 
@@ -114,6 +113,8 @@ The project report documents:
 - Business recommendations
 
 ### 5️⃣ Presentation
+open:
+🎨 [Project Presentation](Customer-Shopping-Behavior-Analysis-quick%20presentation.pdf)
 
 A professional presentation was created using **Gamma AI** to summarize the project and communicate the most important insights and recommendations in a clear, visual format.
 
