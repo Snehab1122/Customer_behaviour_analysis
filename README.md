@@ -60,7 +60,7 @@ Canva Presentation
 
 Open:
 
-`Customer_Shopping_Behavior_Analysis.ipynb`
+[Python EDA & Data Cleaning]()
 
 Use the notebook to:
 
