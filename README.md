@@ -91,9 +91,10 @@ Execute the queries to analyze:
 
 ### 3️⃣ Power BI Dashboard
 
+
 Open:
 
-`customer_behavior_dashboard.pbix`
+
 
 Connect Power BI to the MySQL database and refresh the data.
 
@@ -127,20 +128,4 @@ A professional presentation was created using **Gamma AI** to summarize the proj
 | `customer_behavior_dashboard.pbix` | Power BI interactive dashboard |
 | `Project_Report.pdf` | Detailed project report |
 | `Project_Presentation.pdf` | Gamma AI presentation |
-Raw Dataset
-     ↓
-Python Data Loading
-     ↓
-Exploratory Data Analysis
-     ↓
-Data Cleaning
-     ↓
-MySQL Database
-     ↓
-SQL Analysis
-     ↓
-Power BI Dashboard
-     ↓
-Report
-     ↓
-Canva Presentation
+
