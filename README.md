@@ -60,7 +60,7 @@ Canva Presentation
 
 Open:
 
-[Python EDA & Data Cleaning]()
+📓 [Python EDA & Data Cleaning](data%20analyst%20project%201.ipynb)
 
 Use the notebook to:
 
@@ -77,7 +77,7 @@ Import the cleaned dataset into **MySQL** and create the required database and t
 
 Open:
 
-`customer_behavior_sql_queries.sql`
+
 
 Execute the queries to analyze:
 
